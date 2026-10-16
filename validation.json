@@ -1,0 +1,160 @@
+{
+  "model_identity": "embeddinggemma-2:440m:1740d08dd29c925b4290e2d1e10df4c1f9af977f637918c408f4215c23c249df:0.40.5",
+  "examples": {
+    "gato": {
+      "dimensions": 768,
+      "seconds": 2.058960249996744,
+      "ranking": [
+        {
+          "label": "Gato",
+          "score": 0.688468512543992
+        },
+        {
+          "label": "Perro",
+          "score": 0.628125810694217
+        },
+        {
+          "label": "Planta",
+          "score": 0.6136738757107938
+        },
+        {
+          "label": "Taza",
+          "score": 0.5947964806979836
+        },
+        {
+          "label": "Botella",
+          "score": 0.5892214445821313
+        },
+        {
+          "label": "Bicicleta",
+          "score": 0.5874320144878409
+        },
+        {
+          "label": "Computador portátil",
+          "score": 0.5852917133282695
+        },
+        {
+          "label": "Automóvil",
+          "score": 0.5795330238960944
+        }
+      ]
+    },
+    "bicicleta": {
+      "dimensions": 768,
+      "seconds": 0.2409555841004476,
+      "ranking": [
+        {
+          "label": "Bicicleta",
+          "score": 0.6966848567846455
+        },
+        {
+          "label": "Automóvil",
+          "score": 0.6232433189019848
+        },
+        {
+          "label": "Botella",
+          "score": 0.6118023309247853
+        },
+        {
+          "label": "Perro",
+          "score": 0.6037961823896948
+        },
+        {
+          "label": "Taza",
+          "score": 0.6003371442762477
+        },
+        {
+          "label": "Gato",
+          "score": 0.5948342594917525
+        },
+        {
+          "label": "Computador portátil",
+          "score": 0.5942113476309089
+        },
+        {
+          "label": "Planta",
+          "score": 0.588206775686699
+        }
+      ]
+    },
+    "silla": {
+      "dimensions": 768,
+      "seconds": 0.23348487506154925,
+      "ranking": [
+        {
+          "label": "Planta",
+          "score": 0.6013772775517924
+        },
+        {
+          "label": "Botella",
+          "score": 0.6000809460714748
+        },
+        {
+          "label": "Taza",
+          "score": 0.5951922761619285
+        },
+        {
+          "label": "Bicicleta",
+          "score": 0.5849544554507025
+        },
+        {
+          "label": "Perro",
+          "score": 0.5834736229974906
+        },
+        {
+          "label": "Computador portátil",
+          "score": 0.5818722419431324
+        },
+        {
+          "label": "Gato",
+          "score": 0.5771257962582443
+        },
+        {
+          "label": "Automóvil",
+          "score": 0.5665331630147965
+        }
+      ]
+    }
+  },
+  "chair_added": {
+    "image_cached": true,
+    "ranking": [
+      {
+        "label": "Silla",
+        "score": 0.6835594108664209
+      },
+      {
+        "label": "Planta",
+        "score": 0.6013772775517924
+      },
+      {
+        "label": "Botella",
+        "score": 0.6000809460714748
+      },
+      {
+        "label": "Taza",
+        "score": 0.5951922761619285
+      },
+      {
+        "label": "Bicicleta",
+        "score": 0.5849544554507025
+      },
+      {
+        "label": "Perro",
+        "score": 0.5834736229974906
+      },
+      {
+        "label": "Computador portátil",
+        "score": 0.5818722419431324
+      },
+      {
+        "label": "Gato",
+        "score": 0.5771257962582443
+      },
+      {
+        "label": "Automóvil",
+        "score": 0.5665331630147965
+      }
+    ]
+  }
+}
